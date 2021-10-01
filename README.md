@@ -38,6 +38,10 @@
 > cd botstylee
 > npm install
 ```
+###### FOR REPLIT
+```bash
+> npm install
+> install ffmpeg and Imagemagick through Nix manager
 ###### Run
 ```bash
 > node index.js
