@@ -116,7 +116,7 @@ global.rpg = {
 	emoticon(string) {
 		string = string.toLowerCase()
 		let emot = {
-			level: '🧬',
+			level: '🏅',
 			limit: '🌌',
 			health: '❤️',
 			exp: '✉️',
